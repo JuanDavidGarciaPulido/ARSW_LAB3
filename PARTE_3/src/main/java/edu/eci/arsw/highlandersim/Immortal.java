@@ -1,6 +1,5 @@
 package edu.eci.arsw.highlandersim;
 
-import java.util.List;
 import java.util.Random;
 import java.util.concurrent.CopyOnWriteArrayList;
 
